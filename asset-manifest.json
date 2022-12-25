@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sky-news/static/css/main.56834e2f.css",
+    "main.js": "/sky-news/static/js/main.0729eb19.js",
+    "static/media/defaultNews.jpg": "/sky-news/static/media/defaultNews.d8da792189d7944a741a.jpg",
+    "static/media/loading.gif": "/sky-news/static/media/loading.816e2b9b9cf8e61a5db0.gif",
+    "index.html": "/sky-news/index.html",
+    "main.56834e2f.css.map": "/sky-news/static/css/main.56834e2f.css.map",
+    "main.0729eb19.js.map": "/sky-news/static/js/main.0729eb19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56834e2f.css",
+    "static/js/main.0729eb19.js"
+  ]
+}
